@@ -1,5 +1,5 @@
 ## End to End MAchine Learning Project
-
+Containerized ML Project can be deployed on any cloud.
 
 
 ## Run from terminal:
